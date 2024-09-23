@@ -14,3 +14,9 @@ Esta atividade deve ser feita de maneira individual e não pode ter banners repe
 
 ## Template dos banners FICE
 ![asfds](docs_assets/FICE_XV_2024_Modelo_banner.jpg)
+
+## Imagens útteis
+
+![logo ifc](docs_assets/Logo_IFC_horizontal_Camboriu.png)
+
+![logo xv fice](docs_assets/banner_FICE_2024_XV.png)
