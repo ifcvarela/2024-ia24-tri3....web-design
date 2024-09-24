@@ -33,6 +33,13 @@ Esta atividade deve ser feita de maneira individual e não pode ter banners repe
 | 2024302360 | Thomas Eric Pereira da Silva      | Codegamix - Jogo web para ensinar lógica de programação |
 | 2024306340 | Isaias Ramos Batista              | MAQUETE DO SISTEMA SOLAR EM ESCALA |
 | 2024318305 | Pamela Victoria Teixeira de Araujo | ESTUDO DA PERCEPÇÃO DOS TURISTAS QUANTO ÀS CONDIÇÕES DA PRAIA CENTRAL DE BALNEÁRIO CAMBORIÚ, SC. |
+| 2024306752 | Maria Fernanda de Sant’Ana                        | MAQUETE DO CEIT LEONEL DE MOURA BRIZOLA: Uma Experiência Interdisciplinar em Cartografia, Matemática e Tecnologia |
+| 2024307099 | Fernando Braz                                     | SECURE BIP SEGURANÇA PARA ATLETAS |
+| 2024315519 | Gabriella Burei Van Haandel                       | A INFLUÊNCIA DA CULTURA POPULAR NO TURISMO EM LOCAIS DE BAIXA RENDA: um estudo de caso em uma comunidade do Rio de Janeiro | 
+| 2024304426 | Victória Angélica Régis                           | A INSERÇÃO DA CULINÁRIA VEGANA EM ESTABELECIMENTOS DE BALNEÁRIO CAMBORIÚ |
+
+
+
 
 ### Template dos banners FICE
 
