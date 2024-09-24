@@ -24,6 +24,10 @@ Esta atividade deve ser feita de maneira individual e não pode ter banners repe
 | 2024306510 | Nycolas Luiz Silveira de Oliveira | LEITURA E ESCRITA: Experiência extensionista de oficinas literárias na escola |
 | 2024310307 | Adrian Victor de Abreu Alves      | MÚSICA EXPERIMENTAL AO ALCANCE DE TODOS: DESENVOLVENDO UM CONTROLADOR MIDI ACESSÍVEL |
 | 2024306921 | Gustavo Jorge Heizen Scalzoni     | Sistema De Monitoramento de Infrações e Reabilitação Educacional Front-end |
+| 2024306636 | Vitor Martins Les                 | BALNEÁRIO CAMBORIÚ: Turismo e Sustentabilidade |
+| 2024316249 | Veronica Paz Ledo Balke           | SPEAK OUT SAFE: UMA PLATAFORMA WEB PARA O COMBATE AO ASSÉDIO |
+| 2024324984 | Sofia Emanuely                    | LEIA MAIS MULHERES: Relato de experiência do projeto Clube de Leitura Fridas e Lidas |
+| 2024308766 | Bernardo José Wassen              | ACESSIBILIDADE PARA PESSOAS COM DEFICIÊNCIA VISUAL EM RESTAURANTES DE BALNEÁRIO CAMBORIÚ |
 
 ### Template dos banners FICE
 
