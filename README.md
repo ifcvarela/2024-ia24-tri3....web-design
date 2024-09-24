@@ -37,6 +37,13 @@ Esta atividade deve ser feita de maneira individual e não pode ter banners repe
 | 2024307099 | Fernando Braz                                     | SECURE BIP SEGURANÇA PARA ATLETAS |
 | 2024315519 | Gabriella Burei Van Haandel                       | A INFLUÊNCIA DA CULTURA POPULAR NO TURISMO EM LOCAIS DE BAIXA RENDA: um estudo de caso em uma comunidade do Rio de Janeiro | 
 | 2024304426 | Victória Angélica Régis                           | A INSERÇÃO DA CULINÁRIA VEGANA EM ESTABELECIMENTOS DE BALNEÁRIO CAMBORIÚ |
+| 2024304650 | Matheus Sutil de Souza  | CLORETO NA ÁGUA SUBTERRÂNEA DO IFC-CAMPUS CAMBORIÚ |
+| 2024306402 | Luana de Oliveira       | LITERATURA AFRO-BRASILEIRA COMO PRÁTICA PEDAGÓGICA ANTIRRACISTA NA SALA DE AULA |
+| 2023307970 | Anah Luiza Moreira      | MAQUETE DO SISTEMA SOLAR EM ESCALA |
+| 2024307007 | Gabriel Weber  | A INFLUÊNCIA DAS FILOSOFIAS POLÍTICAS DE PLATÃO E ARISTÓTELES NA ESTRUTURAÇÃO DE GOVERNOS CONTEMPORÂNEOS |
+| 2024302323 | Vinícius Bernardo Saraiva | Sistema De Monitoramento de Infrações e Reabilitação Educacional Back-end |
+| 2024309772 | Filipe Sousa Rodrigues | O PERFIL DE CONSUMO DOS PARTICIPANTES DE UM MEGAEVENTO: um estudo do Festival Lollapalooza Brasil |
+| 2024312025 | Vitor Gabriel da Silva Rosa | EU SOU O ROBÔ: aprendendo a programar |
 
 
 
