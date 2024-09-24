@@ -28,6 +28,11 @@ Esta atividade deve ser feita de maneira individual e não pode ter banners repe
 | 2024316249 | Veronica Paz Ledo Balke           | SPEAK OUT SAFE: UMA PLATAFORMA WEB PARA O COMBATE AO ASSÉDIO |
 | 2024324984 | Sofia Emanuely                    | LEIA MAIS MULHERES: Relato de experiência do projeto Clube de Leitura Fridas e Lidas |
 | 2024308766 | Bernardo José Wassen              | ACESSIBILIDADE PARA PESSOAS COM DEFICIÊNCIA VISUAL EM RESTAURANTES DE BALNEÁRIO CAMBORIÚ |
+| 2024304776 | Matheus Pereira Cavalcante        | Trocas Literárias: leituras que conversam |
+| 2024307150 | Clayton Azevedo da Silva Filho    | PERCEPÇÃO DOS VISITANTES QUANTO AO ATRATIVO TURÍSTICO PARQUE UNIPRAIAS,EM BALNEÁRIO CAMBORIÚ, SC |
+| 2024302360 | Thomas Eric Pereira da Silva      | Codegamix - Jogo web para ensinar lógica de programação |
+| 2024306340 | Isaias Ramos Batista              | MAQUETE DO SISTEMA SOLAR EM ESCALA |
+| 2024318305 | Pamela Victoria Teixeira de Araujo | ESTUDO DA PERCEPÇÃO DOS TURISTAS QUANTO ÀS CONDIÇÕES DA PRAIA CENTRAL DE BALNEÁRIO CAMBORIÚ, SC. |
 
 ### Template dos banners FICE
 
