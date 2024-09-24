@@ -10,40 +10,40 @@ Esta atividade deve ser feita de maneira individual e não pode ter banners repe
 
 [link para trabalhos aprovados na FICE2024](https://www.camboriu.ifc.edu.br/editais/wp-content/uploads/sites/15/2024/09/Edital_XV_FICE_2024_-_Edital_29-2024-RESULTADO_FINAL.pdf)
 
-| Matrícula  | Aluno                             | Banner Escolhido |
-|------------|-----------------------------------|------------------|
-| 2024304829 | Mariana Passos Faria              | Lego Science Car: Explorando a Robótica e Programação com LEGO de Forma Divertida eEducativa |
-| 2024308695 | Victor Guilherme Francisco Bueno  | Análise de Alcalinidade das Águas Subterrâneas do Instituto Federal Catarinense |
-| 2024304865 | Marcos Vinicius Moraes Filho      | A UTILIZAÇÃO DA MODELAGEM E IMPRESSÃO 3D NO ENSINO DE TECNOLOGIAS SUSTENTÁVEIS: Uma réplica de turbina eólica para o ensino |
-| 2024304909 | Marcio Manoel Bento Filho         | UTILIZANDO KITS LEGO EDUCATION SPIKE LEGO PRIME NO ENSINO FUNDAMENTAL II, NA DISCIPLINA DE GEOGRAFIA DAS ESCOLAS DO MUNICÍPIO DE CAMBORIÚ |
-| 2024306879 | Gustavo Nascimento                | ENERGIA MAREMOTRIZ: POTENCIAL E SUSTENTABILIDADE |
-| 2024304515 | Pedro Henrique Antunes Berté      | ACAMPAMENTO FARROUPILHA DE CAMBORIÚ: motivações para a participação no evento |
-| 2024313686 | Arthur da Costa Borges            | Entre o vivido e o devir: Relatos de futuros professores que ensinam matemática |
-| 2024325266 | Everton Luan Vaz Justo            | INICIAÇÃO EM TECNOLOGIA: Formação básica em informática para comunidade externa e acadêmicos |
-| 2024306799 | Luís Felipe Oliveira              | WVOM Robô para medir a velocidade e direção do vento |
-| 2024306510 | Nycolas Luiz Silveira de Oliveira | LEITURA E ESCRITA: Experiência extensionista de oficinas literárias na escola |
-| 2024310307 | Adrian Victor de Abreu Alves      | MÚSICA EXPERIMENTAL AO ALCANCE DE TODOS: DESENVOLVENDO UM CONTROLADOR MIDI ACESSÍVEL |
-| 2024306921 | Gustavo Jorge Heizen Scalzoni     | Sistema De Monitoramento de Infrações e Reabilitação Educacional Front-end |
-| 2024306636 | Vitor Martins Les                 | BALNEÁRIO CAMBORIÚ: Turismo e Sustentabilidade |
-| 2024316249 | Veronica Paz Ledo Balke           | SPEAK OUT SAFE: UMA PLATAFORMA WEB PARA O COMBATE AO ASSÉDIO |
-| 2024324984 | Sofia Emanuely                    | LEIA MAIS MULHERES: Relato de experiência do projeto Clube de Leitura Fridas e Lidas |
-| 2024308766 | Bernardo José Wassen              | ACESSIBILIDADE PARA PESSOAS COM DEFICIÊNCIA VISUAL EM RESTAURANTES DE BALNEÁRIO CAMBORIÚ |
-| 2024304776 | Matheus Pereira Cavalcante        | Trocas Literárias: leituras que conversam |
-| 2024307150 | Clayton Azevedo da Silva Filho    | PERCEPÇÃO DOS VISITANTES QUANTO AO ATRATIVO TURÍSTICO PARQUE UNIPRAIAS,EM BALNEÁRIO CAMBORIÚ, SC |
-| 2024302360 | Thomas Eric Pereira da Silva      | Codegamix - Jogo web para ensinar lógica de programação |
-| 2024306340 | Isaias Ramos Batista              | MAQUETE DO SISTEMA SOLAR EM ESCALA |
-| 2024318305 | Pamela Victoria Teixeira de Araujo | ESTUDO DA PERCEPÇÃO DOS TURISTAS QUANTO ÀS CONDIÇÕES DA PRAIA CENTRAL DE BALNEÁRIO CAMBORIÚ, SC. |
-| 2024306752 | Maria Fernanda de Sant’Ana                        | MAQUETE DO CEIT LEONEL DE MOURA BRIZOLA: Uma Experiência Interdisciplinar em Cartografia, Matemática e Tecnologia |
-| 2024307099 | Fernando Braz                                     | SECURE BIP SEGURANÇA PARA ATLETAS |
-| 2024315519 | Gabriella Burei Van Haandel                       | A INFLUÊNCIA DA CULTURA POPULAR NO TURISMO EM LOCAIS DE BAIXA RENDA: um estudo de caso em uma comunidade do Rio de Janeiro | 
-| 2024304426 | Victória Angélica Régis                           | A INSERÇÃO DA CULINÁRIA VEGANA EM ESTABELECIMENTOS DE BALNEÁRIO CAMBORIÚ |
-| 2024304650 | Matheus Sutil de Souza  | CLORETO NA ÁGUA SUBTERRÂNEA DO IFC-CAMPUS CAMBORIÚ |
-| 2024306402 | Luana de Oliveira       | LITERATURA AFRO-BRASILEIRA COMO PRÁTICA PEDAGÓGICA ANTIRRACISTA NA SALA DE AULA |
-| 2023307970 | Anah Luiza Moreira      | MAQUETE DO SISTEMA SOLAR EM ESCALA |
-| 2024307007 | Gabriel Weber  | A INFLUÊNCIA DAS FILOSOFIAS POLÍTICAS DE PLATÃO E ARISTÓTELES NA ESTRUTURAÇÃO DE GOVERNOS CONTEMPORÂNEOS |
-| 2024302323 | Vinícius Bernardo Saraiva | Sistema De Monitoramento de Infrações e Reabilitação Educacional Back-end |
-| 2024309772 | Filipe Sousa Rodrigues | O PERFIL DE CONSUMO DOS PARTICIPANTES DE UM MEGAEVENTO: um estudo do Festival Lollapalooza Brasil |
-| 2024312025 | Vitor Gabriel da Silva Rosa | EU SOU O ROBÔ: aprendendo a programar |
+| Aluno                              | Matrícula  | Banner Escolhido                                                                                                                          |
+| ---------------------------------- | ---------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
+| Adrian Victor de Abreu Alves       | 2024310307 | Música Experimental Ao Alcance De Todos: Desenvolvendo Um Controlador Midi Acessível                                                      |
+| Anah Luiza Moreira                 | 2023307970 | Maquete Do Sistema Solar Em Escala                                                                                                        |
+| Arthur da Costa Borges             | 2024313686 | Entre O Vivido E O Devir: Relatos De Futuros Professores Que Ensinam Matemática                                                           |
+| Bernardo José Wassen               | 2024308766 | Acessibilidade Para Pessoas Com Deficiência Visual Em Restaurantes De Balneário Camboriú                                                  |
+| Clayton Azevedo da Silva Filho     | 2024307150 | Percepção Dos Visitantes Quanto Ao Atrativo Turístico Parque Unipraias,Em Balneário Camboriú, Sc                                          |
+| Everton Luan Vaz Justo             | 2024325266 | Iniciação Em Tecnologia: Formação Básica Em Informática Para Comunidade Externa E Acadêmicos                                              |
+| Fernando Braz                      | 2024307099 | Secure Bip Segurança Para Atletas                                                                                                         |
+| Filipe Sousa Rodrigues             | 2024309772 | O Perfil De Consumo Dos Participantes De Um Megaevento: Um Estudo Do Festival Lollapalooza Brasil                                         |
+| Gabriel Weber                      | 2024307007 | A Influência Das Filosofias Políticas De Platão E Aristóteles Na Estruturação De Governos Contemporâneos                                  |
+| Gabriella Burei Van Haandel        | 2024315519 | A Influência Da Cultura Popular No Turismo Em Locais De Baixa Renda: Um Estudo De Caso Em Uma Comunidade Do Rio De Janeiro                |
+| Gustavo Jorge Heizen Scalzoni      | 2024306921 | Sistema De Monitoramento De Infrações E Reabilitação Educacional Front-End                                                                |
+| Gustavo Nascimento                 | 2024306879 | Energia Maremotriz: Potencial E Sustentabilidade                                                                                          |
+| Isaias Ramos Batista               | 2024306340 | Maquete Do Sistema Solar Em Escala                                                                                                        |
+| Luana de Oliveira                  | 2024306402 | Literatura Afro-Brasileira Como Prática Pedagógica Antirracista Na Sala De Aula                                                           |
+| Luís Felipe Oliveira               | 2024306799 | Wvom Robô Para Medir A Velocidade E Direção Do Vento                                                                                      |
+| Marcio Manoel Bento Filho          | 2024304909 | Utilizando Kits Lego Education Spike Lego Prime No Ensino Fundamental Ii, Na Disciplina De Geografia Das Escolas Do Município De Camboriú |
+| Marcos Vinicius Moraes Filho       | 2024304865 | A Utilização Da Modelagem E Impressão 3d No Ensino De Tecnologias Sustentáveis: Uma Réplica De Turbina Eólica Para O Ensino               |
+| Maria Fernanda de Sant’Ana         | 2024306752 | Maquete Do Ceit Leonel De Moura Brizola: Uma Experiência Interdisciplinar Em Cartografia, Matemática E Tecnologia                         |
+| Mariana Passos Faria               | 2024304829 | Lego Science Car: Explorando A Robótica E Programação Com Lego De Forma Divertida Eeducativa                                              |
+| Matheus Pereira Cavalcante         | 2024304776 | Trocas Literárias: Leituras Que Conversam                                                                                                 |
+| Matheus Sutil de Souza             | 2024304650 | Cloreto Na Água Subterrânea Do Ifc-Campus Camboriú                                                                                        |
+| Nycolas Luiz Silveira de Oliveira  | 2024306510 | Leitura E Escrita: Experiência Extensionista De Oficinas Literárias Na Escola                                                             |
+| Pamela Victoria Teixeira de Araujo | 2024318305 | Estudo Da Percepção Dos Turistas Quanto Às Condições Da Praia Central De Balneário Camboriú, Sc.                                          |
+| Pedro Henrique Antunes Berté       | 2024304515 | Acampamento Farroupilha De Camboriú: Motivações Para A Participação No Evento                                                             |
+| Sofia Emanuely                     | 2024324984 | Leia Mais Mulheres: Relato De Experiência Do Projeto Clube De Leitura Fridas E Lidas                                                      |
+| Thomas Eric Pereira da Silva       | 2024302360 | Codegamix - Jogo Web Para Ensinar Lógica De Programação                                                                                   |
+| Veronica Paz Ledo Balke            | 2024316249 | Speak Out Safe: Uma Plataforma Web Para O Combate Ao Assédio                                                                              |
+| Victor Guilherme Francisco Bueno   | 2024308695 | Análise De Alcalinidade Das Águas Subterrâneas Do Instituto Federal Catarinense                                                           |
+| Victória Angélica Régis            | 2024304426 | A Inserção Da Culinária Vegana Em Estabelecimentos De Balneário Camboriú                                                                  |
+| Vinícius Bernardo Saraiva          | 2024302323 | Sistema De Monitoramento De Infrações E Reabilitação Educacional Back-End                                                                 |
+| Vitor Gabriel da Silva Rosa        | 2024312025 | Eu Sou O Robô: Aprendendo A Programar                                                                                                     |
+| Vitor Martins Les                  | 2024306636 | Balneário Camboriú: Turismo E Sustentabilidade                                                                                            |
 
 
 
