@@ -10,9 +10,20 @@ Esta atividade deve ser feita de maneira individual e não pode ter banners repe
 
 [link para trabalhos aprovados na FICE2024](https://www.camboriu.ifc.edu.br/editais/wp-content/uploads/sites/15/2024/09/Edital_XV_FICE_2024_-_Edital_29-2024-RESULTADO_FINAL.pdf)
 
-| Matrícula | Aluno | Banner Escolhido |
-|-----------|-------|------------------|
-| 2024      |       |                  |
+| Matrícula  | Aluno                             | Banner Escolhido |
+|------------|-----------------------------------|------------------|
+| 2024304829 | Mariana Passos Faria              | Lego Science Car: Explorando a Robótica e Programação com LEGO de Forma Divertida eEducativa |
+| 2024308695 | Victor Guilherme Francisco Bueno  | Análise de Alcalinidade das Águas Subterrâneas do Instituto Federal Catarinense |
+| 2024304865 | Marcos Vinicius Moraes Filho      | A UTILIZAÇÃO DA MODELAGEM E IMPRESSÃO 3D NO ENSINO DE TECNOLOGIAS SUSTENTÁVEIS: Uma réplica de turbina eólica para o ensino |
+| 2024304909 | Marcio Manoel Bento Filho         | UTILIZANDO KITS LEGO EDUCATION SPIKE LEGO PRIME NO ENSINO FUNDAMENTAL II, NA DISCIPLINA DE GEOGRAFIA DAS ESCOLAS DO MUNICÍPIO DE CAMBORIÚ |
+| 2024306879 | Gustavo Nascimento                | ENERGIA MAREMOTRIZ: POTENCIAL E SUSTENTABILIDADE |
+| 2024304515 | Pedro Henrique Antunes Berté      | ACAMPAMENTO FARROUPILHA DE CAMBORIÚ: motivações para a participação no evento |
+| 2024313686 | Arthur da Costa Borges            | Entre o vivido e o devir: Relatos de futuros professores que ensinam matemática |
+| 2024325266 | Everton Luan Vaz Justo            | INICIAÇÃO EM TECNOLOGIA: Formação básica em informática para comunidade externa e acadêmicos |
+| 2024306799 | Luís Felipe Oliveira              | WVOM Robô para medir a velocidade e direção do vento |
+| 2024306510 | Nycolas Luiz Silveira de Oliveira | LEITURA E ESCRITA: Experiência extensionista de oficinas literárias na escola |
+| 2024310307 | Adrian Victor de Abreu Alves      | MÚSICA EXPERIMENTAL AO ALCANCE DE TODOS: DESENVOLVENDO UM CONTROLADOR MIDI ACESSÍVEL |
+| 2024306921 | Gustavo Jorge Heizen Scalzoni     | Sistema De Monitoramento de Infrações e Reabilitação Educacional Front-end |
 
 ### Template dos banners FICE
 
