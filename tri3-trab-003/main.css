@@ -2,6 +2,10 @@
   box-sizing: border-box;
 }
 
+html {
+  scroll-behavior: smooth;
+}
+
 body {
   margin: 0;
   border: 0;
@@ -32,7 +36,6 @@ main {
   min-height: 100px;
   background-color: #1289A7;
   padding: 1rem;
-
   
   &::before {
     content: "main"
@@ -43,7 +46,6 @@ footer {
   min-width: 100px;
   min-height: 100px;
   background-color: #D980FA;
-
   
   &::before {
     content: "footer"
