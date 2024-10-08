@@ -1,0 +1,51 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  border: 0;
+}
+
+header {
+  min-width: 100px;
+  min-height: 100px;
+  background-color: #F79F1F;
+
+  &::before {
+    content: "Header"
+  }
+}
+
+aside {
+  min-width: 100px;
+  min-height: 100px;
+  background-color: #A3CB38;
+  
+  &::before {
+    content: "aside"
+  }
+}
+
+main {
+  min-width: 100px;
+  min-height: 100px;
+  background-color: #1289A7;
+  padding: 1rem;
+
+  
+  &::before {
+    content: "main"
+  }
+}
+
+footer {
+  min-width: 100px;
+  min-height: 100px;
+  background-color: #D980FA;
+
+  
+  &::before {
+    content: "footer"
+  }
+}
