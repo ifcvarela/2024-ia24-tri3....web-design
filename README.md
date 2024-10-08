@@ -59,6 +59,7 @@ Esta atividade deve ser feita de maneira individual e não pode ter banners repe
 [2024306340-tri1-trab1]: https://github.com/oSaiasKK/baner-2024306340
 [20242304829-tri1-trab1]:maripfaria/2024-tri3-trab01-20242304829
 [2024316249-tri1-trab1]: https://github.com/verxkkj/-2024-tri3-trab01-2024316249
+[2024302360-tri1-trab1]: https://github.com/Thomas-Eric/2024-tri3-trab01--2024302360-
 
 ### Template dos banners FICE
 
@@ -110,7 +111,7 @@ Faça uma versão do banner responsiva, onde quando não houver mais espaço na 
 | 2024324984 |                    | |
 | 2024325266 |                    | |
 
-https://github.com/Thomas-Eric/2024-tri3-trab01--2024302360-
+
 
 ## Atividade 003
 
