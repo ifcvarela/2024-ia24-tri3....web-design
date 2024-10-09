@@ -60,6 +60,7 @@ Esta atividade deve ser feita de maneira individual e não pode ter banners repe
 [20242304829-tri1-trab1]:maripfaria/2024-tri3-trab01-20242304829
 [2024316249-tri1-trab1]: https://github.com/verxkkj/-2024-tri3-trab01-2024316249
 [2024302360-tri1-trab1]: https://github.com/Thomas-Eric/2024-tri3-trab01--2024302360-
+[2024309772-tri1-trab1]: https://github.com/finatir/2024-tri3-trab01-2024309772 
 
 ### Template dos banners FICE
 
