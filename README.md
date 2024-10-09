@@ -57,7 +57,7 @@ Esta atividade deve ser feita de maneira individual e não pode ter banners repe
 [2024304776-tri1-trab1]: https://github.com/TheusGraves/2024-Tri3trab01-2024304776
 [2024306402-tri1-trab1]: https://github.com/Nana-wlw/2024-tri3-trab01-2024306402
 [2024306340-tri1-trab1]: https://github.com/oSaiasKK/baner-2024306340
-[20242304829-tri1-trab1]:maripfaria/2024-tri3-trab01-20242304829
+[20242304829-tri1-trab1]: https://github.com/maripfaria/2024-tri3-trab01-20242304829
 [2024316249-tri1-trab1]: https://github.com/verxkkj/-2024-tri3-trab01-2024316249
 [2024302360-tri1-trab1]: https://github.com/Thomas-Eric/2024-tri3-trab01--2024302360-
 [2024309772-tri1-trab1]: https://github.com/finatir/2024-tri3-trab01-2024309772 
