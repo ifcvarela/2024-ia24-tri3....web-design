@@ -123,9 +123,9 @@ Faça uma versão do banner responsiva, onde quando não houver mais espaço na 
 [2024306921-tri3-trab3]: https://github.com/RTX3090rs/2024-tri3-trab03-2024306921
 [2024310307-tri3-trab3]: https://git.disroot.org/adrianvictor/2024310307-tri3-trab03
 [2024306402-tri3-trab3]: https://github.com/Nana-wlw/2024-tri3-trab03-2024306402
+[2024306340-tri3-trab3]: https://github.com/oSaiasKK/grid-massa/tree/main 
 
 - ᵈ¹ ᵈ² ᵈ³ ᵈ⁴ ᵈ⁵ ᵈ⁶ ᵈ⁷ ᵈ⁸ ᵈ⁹ ᵈ¹⁰ ᵈⁿ: Entrega com dias de Atraso
-- link: Trabalho ainda não avaliado
 - \*: Entrega não foi possível avaliar, documento corrompido ou em branco ou outra situação que impossibilitou a avaliação.
 
 ## Atividade 003
