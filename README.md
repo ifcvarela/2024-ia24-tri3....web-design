@@ -10,42 +10,42 @@ Esta atividade deve ser feita de maneira individual e não pode ter banners repe
 
 [link para trabalhos aprovados na FICE2024](https://www.camboriu.ifc.edu.br/editais/wp-content/uploads/sites/15/2024/09/Edital_XV_FICE_2024_-)
 
-| Matrícula  | Avaliação                       | Banner Escolhido                                                                                                                          |
-| ---------- |:-------------------------------:| ----------------------------------------------------------------------------------------------------------------------------------------- |
-| 2023307970 | [link][2023307970-tri3-trab1]ᵈ⁷ | Maquete Do Sistema Solar Em Escala                                                                                                        |
-| 2024302323 |  90%                            | Artificial Meowligence: Um Jogo De Conscientização Sobre Ias                                                                              |
-| 2024302360 | [link][2024302360-tri3-trab1]ᵈ⁷ | Codegamix - Jogo Web Para Ensinar Lógica De Programação                                                                                   |
-| 2024304426 |  90%                            | A Inserção Da Culinária Vegana Em Estabelecimentos De Balneário Camboriú                                                                  |
-| 2024304515 | 100%                            | Acampamento Farroupilha De Camboriú: Motivações Para A Participação No Evento                                                             |
-| 2024304650 | 100%                            | Cloreto Na Água Subterrânea Do Ifc-Campus Camboriú                                                                                        |
-| 2024304776 | [link][2024304776-tri3-trab1]ᵈ⁷ | Workolor                                                                                                                                  |
-| 2024304829 | [link][2024304829-tri3-trab1]ᵈ⁷ | Lego Science Car: Explorando A Robótica E Programação Com Lego De Forma Divertida Eeducativa                                              |
-| 2024304865 |  85%                            | A Utilização Da Modelagem E Impressão 3d No Ensino De Tecnologias Sustentáveis: Uma Réplica De Turbina Eólica Para O Ensino               |
-| 2024304909 | [link][2024304909-tri3-trab1]ᵈ⁷ | Utilizando Kits Lego Education Spike Lego Prime No Ensino Fundamental Ii, Na Disciplina De Geografia Das Escolas Do Município De Camboriú |
-| 2024306340 | [link][2024306340-tri3-trab1]ᵈ⁷ | Maquete Do Sistema Solar Em Escala                                                                                                        |
-| 2024306402 | [link][2024306402-tri3-trab1]ᵈ⁷ | E.YCall - Projeto Para A Automatização De Chamadas Escolares                                                                              |
-| 2024306510 | [link][2024306510-tri3-trab1]ᵈ⁷ | Leitura E Escrita: Experiência Extensionista De Oficinas Literárias Na Escola                                                             |
-| 2024306636 |  90%                            | Balneário Camboriú: Turismo E Sustentabilidade                                                                                            |
-| 2024306752 | [link][2024306752-tri3-trab1]*  | Maquete Do Ceit Leonel De Moura Brizola: Uma Experiência Interdisciplinar Em Cartografia, Matemática E Tecnologia                         |
-| 2024306799 |  95%                            | Wvom Robô Para Medir A Velocidade E Direção Do Vento                                                                                      |
-| 2024306879 | [link][2024306879-tri3-trab1]ᵈ⁷ | Análise De Substratos Para A Produção De Mudas De Ipe Amarelo                                                                             |
-| 2024306921 | 100%                            | Sistema De Monitoramento De Infrações E Reabilitação Educacional Front-End                                                                |
-| 2024307007 |  90%                            | Banco de Talentos do IFC Camboriú                                                                                                         |
-| 2024307099 |  80%                            | Secure Bip Segurança Para Atletas                                                                                                         |
-| 2024307150 | 100%                            | Percepção Dos Visitantes Quanto Ao Atrativo Turístico Parque Unipraias,Em Balneário Camboriú, Sc                                          |
-| 2024307203 | [link][2024307203-tri3-trab1]ᵈ⁷ | Construção De Luvas De Corrida De Cadeira De Rodas Feitas Por Impressão 3d                                                                |
-| 2024308695 |  90%                            | Análise De Alcalinidade Das Águas Subterrâneas Do Instituto Federal Catarinense                                                           |
-| 2024308766 | 100%                            | Acessibilidade Para Pessoas Com Deficiência Visual Em Restaurantes De Balneário Camboriú                                                  |
-| 2024309772 | [link][2024309772-tri3-trab1]ᵈ⁷ | O Perfil De Consumo Dos Participantes De Um Megaevento: Um Estudo Do Festival Lollapalooza Brasil                                         |
-| 2024310307 | 100%                            | Música Experimental Ao Alcance De Todos: Desenvolvendo Um Controlador Midi Acessível                                                      |
-| 2024312025 | 100%                            | Eu Sou O Robô: Aprendendo A Programar                                                                                                     |
-| 2024313686 | 100%                            | Segurança dos Alimentos em Estabelecimentos da Orla da Praia                                                                              |
-| 2024315519 | 100%                            | A Influência Da Cultura Popular No Turismo Em Locais De Baixa Renda: Um Estudo De Caso Em Uma Comunidade Do Rio De Janeiro                |
-| 2024315564 | [link][2024315564-tri3-trab1]ᵈ⁷ | Pizzarias inclusivas para intolerância lactose de balneário Camboriú                                                                      |
-| 2024316249 | [link][2024316249-tri3-trab1]*  | Speak Out Safe: Uma Plataforma Web Para O Combate Ao Assédio                                                                              |
-| 2024318305 | [link][2024318305-tri3-trab1]*  | Estudo Da Percepção Dos Turistas Quanto Às Condições Da Praia Central De Balneário Camboriú, Sc.                                          |
-| 2024324984 | 100%                            | Leia Mais Mulheres: Relato De Experiência Do Projeto Clube De Leitura Fridas E Lidas                                                      |
-| 2024325266 |  80%                            | Iniciação Em Tecnologia: Formação Básica Em Informática Para Comunidade Externa E Acadêmicos                                              |
+| Matrícula  | Avaliação                         | Banner Escolhido                                                                                                                          |
+| ---------- |:---------------------------------:| ----------------------------------------------------------------------------------------------------------------------------------------- |
+| 2023307970 | [link][2023307970-tri3-trab1] ᵈ⁷  | Maquete Do Sistema Solar Em Escala                                                                                                        |
+| 2024302323 |  90%                              | Artificial Meowligence: Um Jogo De Conscientização Sobre Ias                                                                              |
+| 2024302360 |  90% ᵈ⁷                           | Codegamix - Jogo Web Para Ensinar Lógica De Programação                                                                                   |
+| 2024304426 |  90%                              | A Inserção Da Culinária Vegana Em Estabelecimentos De Balneário Camboriú                                                                  |
+| 2024304515 | 100%                              | Acampamento Farroupilha De Camboriú: Motivações Para A Participação No Evento                                                             |
+| 2024304650 | 100%                              | Cloreto Na Água Subterrânea Do Ifc-Campus Camboriú                                                                                        |
+| 2024304776 | [link][2024304776-tri3-trab1] ᵈ¹⁴ | Workolor                                                                                                                                  |
+| 2024304829 | [link][2024304829-tri3-trab1] ᵈ⁷  | Lego Science Car: Explorando A Robótica E Programação Com Lego De Forma Divertida Eeducativa                                              |
+| 2024304865 |  85%                              | A Utilização Da Modelagem E Impressão 3d No Ensino De Tecnologias Sustentáveis: Uma Réplica De Turbina Eólica Para O Ensino               |
+| 2024304909 |  10% ᵈ⁷                           | Utilizando Kits Lego Education Spike Lego Prime No Ensino Fundamental Ii, Na Disciplina De Geografia Das Escolas Do Município De Camboriú |
+| 2024306340 |  90% ᵈ⁷                           | Maquete Do Sistema Solar Em Escala                                                                                                        |
+| 2024306402 |  85% ᵈ⁷                           | E.YCall - Projeto Para A Automatização De Chamadas Escolares                                                                              |
+| 2024306510 | [link][2024306510-tri3-trab1] ᵈ⁷  | Leitura E Escrita: Experiência Extensionista De Oficinas Literárias Na Escola                                                             |
+| 2024306636 |  90%                              | Balneário Camboriú: Turismo E Sustentabilidade                                                                                            |
+| 2024306752 | 100%                              | Maquete Do Ceit Leonel De Moura Brizola: Uma Experiência Interdisciplinar Em Cartografia, Matemática E Tecnologia                         |
+| 2024306799 |  95%                              | Wvom Robô Para Medir A Velocidade E Direção Do Vento                                                                                      |
+| 2024306879 | [link][2024306879-tri3-trab1] ᵈ⁷  | Análise De Substratos Para A Produção De Mudas De Ipe Amarelo                                                                             |
+| 2024306921 | 100%                              | Sistema De Monitoramento De Infrações E Reabilitação Educacional Front-End                                                                |
+| 2024307007 |  90%                              | Banco de Talentos do IFC Camboriú                                                                                                         |
+| 2024307099 |  80%                              | Secure Bip Segurança Para Atletas                                                                                                         |
+| 2024307150 | 100%                              | Percepção Dos Visitantes Quanto Ao Atrativo Turístico Parque Unipraias,Em Balneário Camboriú, Sc                                          |
+| 2024307203 | [link][2024307203-tri3-trab1] ᵈ⁷  | Construção De Luvas De Corrida De Cadeira De Rodas Feitas Por Impressão 3d                                                                |
+| 2024308695 |  90%                              | Análise De Alcalinidade Das Águas Subterrâneas Do Instituto Federal Catarinense                                                           |
+| 2024308766 | 100%                              | Acessibilidade Para Pessoas Com Deficiência Visual Em Restaurantes De Balneário Camboriú                                                  |
+| 2024309772 | 100% ᵈ⁷                           | O Perfil De Consumo Dos Participantes De Um Megaevento: Um Estudo Do Festival Lollapalooza Brasil                                         |
+| 2024310307 | 100%                              | Música Experimental Ao Alcance De Todos: Desenvolvendo Um Controlador Midi Acessível                                                      |
+| 2024312025 | 100%                              | Eu Sou O Robô: Aprendendo A Programar                                                                                                     |
+| 2024313686 | 100%                              | Segurança dos Alimentos em Estabelecimentos da Orla da Praia                                                                              |
+| 2024315519 | 100%                              | A Influência Da Cultura Popular No Turismo Em Locais De Baixa Renda: Um Estudo De Caso Em Uma Comunidade Do Rio De Janeiro                |
+| 2024315564 |  95% ᵈ⁷                           | Pizzarias inclusivas para intolerância lactose de balneário Camboriú                                                                      |
+| 2024316249 | 100%                              | Speak Out Safe: Uma Plataforma Web Para O Combate Ao Assédio                                                                              |
+| 2024318305 | [link][2024318305-tri3-trab1]*    | Estudo Da Percepção Dos Turistas Quanto Às Condições Da Praia Central De Balneário Camboriú, Sc.                                          |
+| 2024324984 | 100%                              | Leia Mais Mulheres: Relato De Experiência Do Projeto Clube De Leitura Fridas E Lidas                                                      |
+| 2024325266 |  80%                              | Iniciação Em Tecnologia: Formação Básica Em Informática Para Comunidade Externa E Acadêmicos                                              |
 
 - ᵈ¹ ᵈ² ᵈ³ ᵈ⁴ ᵈ⁵ ᵈ⁶ ᵈ⁷ ᵈ⁸ ᵈ⁹ ᵈ¹⁰ ᵈⁿ: Entrega com dias de Atraso
 - link: Trabalho ainda não avaliado
@@ -123,7 +123,7 @@ Faça uma versão do banner responsiva, onde quando não houver mais espaço na 
 [2024307099-tri3-trab3]: https://github.com/blueclaro/2024-tri3-trab3-2024307099
 [2024306921-tri3-trab3]: https://github.com/RTX3090rs/2024-tri3-trab03-2024306921
 [2024310307-tri3-trab3]: https://git.disroot.org/adrianvictor/2024310307-tri3-trab03
-[2024306402-tri3-trab3]: https://github.com/Nana-wlw/2024-tri3-trab03-2024306402
+[2024306402-tri3-trab3]: https://github.com/Nana-wlw/2024-tri3-trab03-2024306402-
 [2024306340-tri3-trab3]: https://github.com/oSaiasKK/grid-massa/tree/main 
 [2024324984-tri3-trab3]: https://github.com/Sofi5466/tri3-trab-002
 [2024302360-tri3-trab3]: https://github.com/Thomas-Eric/2024-tri3-trab02--2024302360-
