@@ -75,75 +75,6 @@ Esta atividade deve ser feita de maneira individual e não pode ter banners repe
 
 Faça uma versão do banner responsiva, onde quando não houver mais espaço na tela as colunas se tornem uma só, e caso haja muito espaço o texto deve ficar em até três colunas.
 
-| Matrícula  | Avaliação          | Link                          |
-| ---------- | :----------------: | ----------------------------- |
-| 2023307970 |                    | [link][2023307970-tri3-trab3] |
-| 2024302323 | 100%               | [link][2024302323-tri3-trab3] |
-| 2024302360 | 90% (parece que houve "inspirações") | [link][2024302360-tri3-trab3] |
-| 2024304426 | 100%               | [link][2024304426-tri3-trab3] |
-| 2024304515 | 100%               | [link][2024304515-tri3-trab3] |
-| 2024304650 | 100%               | [link][2024304650-tri3-trab3] |
-| 2024304776 |                    | [link][2024304776-tri3-trab3] |
-| 2024304829 |                    | [link][2024304829-tri3-trab3] |
-| 2024304865 |                    | [link][2024304865-tri3-trab3] |
-| 2024304909 | 100%               | [link][2024304909-tri3-trab3] |
-| 2024306340 |                    | [link][2024306340-tri3-trab3] |
-| 2024306402 | ᵈ¹                 | [link][2024306402-tri3-trab3] |
-| 2024306510 |                    | [link][2024306510-tri3-trab3] |
-| 2024306636 | 100%               | [link][2024306636-tri3-trab3] |
-| 2024306752 | 100%               | [link][2024306752-tri3-trab3] |
-| 2024306799 |  90%               | [link][2024306799-tri3-trab3] |
-| 2024306879 |                    | [link][2024306879-tri3-trab3] |
-| 2024306921 | 100%               | [link][2024306921-tri3-trab3] |
-| 2024307007 |                    | [link][2024307007-tri3-trab3] |
-| 2024307099 |  90%               | [link][2024307099-tri3-trab3] |
-| 2024307150 | 100%               | [link][2024307150-tri3-trab3] |
-| 2024307203 |                    | [link][2024307203-tri3-trab3] |
-| 2024308695 | 100%               | [link][2024308695-tri3-trab3] |
-| 2024308766 | 100%               | [link][2024308766-tri3-trab3] |
-| 2024309772 |                    | [link][2024309772-tri3-trab3] |
-| 2024310307 | 100%               | [link][2024310307-tri3-trab3] |
-| 2024312025 | 100%               | [link][2024312025-tri3-trab3] |
-| 2024313686 | 100%               | [link][2024313686-tri3-trab3] |
-| 2024315519 | 100%               | [link][2024315519-tri3-trab3] |
-| 2024315564 |                    | [link][2024315564-tri3-trab3] |
-| 2024316249 | d1                 | [link][2024316249-tri3-trab3] |
-| 2024318305 |                    | [link][2024318305-tri3-trab3] |
-| 2024324984 | 100%               | [link][2024324984-tri3-trab3] |
-| 2024325266 |                    | [link][2024325266-tri3-trab3] |
-
-
-[2024313686-tri3-trab3]: https://github.com/ArthAttack16/2024-tri3-trab03-2024313686
-[2024307150-tri3-trab3]: https://github.com/08clayton/2024-tri3-trab03-2024307150.git
-[2024306799-tri3-trab3]: https://github.com/piu2121/2024-tri3-trab3-2024306799
-[2024308766-tri3-trab3]: https://github.com/bernardojwassen/2024-TRI3-TRAB003-2024308766
-[2024315519-tri3-trab3]: https://github.com/Gab-jpng/2024-tri3-trab02-2024315519
-[2024304909-tri3-trab3]: https://github.com/MrMeta-24/teste-atividade-003-004
-[2024306340-tri3-trab3]: https://github.com/oSaiasKK/grid-massa/tree/main
-[2024307099-tri3-trab3]: https://github.com/blueclaro/2024-tri3-trab3-2024307099
-[2024306921-tri3-trab3]: https://github.com/RTX3090rs/2024-tri3-trab03-2024306921
-[2024310307-tri3-trab3]: https://git.disroot.org/adrianvictor/2024310307-tri3-trab03
-[2024306402-tri3-trab3]: https://github.com/Nana-wlw/2024-tri3-trab03-2024306402-
-[2024306340-tri3-trab3]: https://github.com/oSaiasKK/grid-massa/tree/main 
-[2024324984-tri3-trab3]: https://github.com/Sofi5466/tri3-trab-002
-[2024302360-tri3-trab3]: https://github.com/Thomas-Eric/2024-tri3-trab02--2024302360-
-[2024308695-tri3-trab3]: https://github.com/Gui5757/2024-tri3-trab003-2024308695
-[2024312025-tri3-trab3]: https://github.com/Vitorsk80/2024312025-Trabalho3-Tri3
-[2024306636-tri3-trab3]: https://github.com/BIackDemon/2024-tri3-trab003-ia24b-2024306636
-[2024306752-tri3-trab3]: https://github.com/NandaSantana/2024-tri3-trab02-2024306752
-[2024302323-tri3-trab3]: https://github.com/bernardo-vinicius/2024-tri3-trab03-2024302323
-[2024304650-tri3-trab3]: https://github.com/matheussutil/2024304650-tri3-trab3
-[2024304426-tri3-trab3]: https://github.com/victoriaangelicaregis/2024-tri3-trab02-2024304426
-[2024304515-tri3-trab3]: https://github.com/PedroAntunesB/2024-tri3-trab03-2024304515
-[2024316249-tri3-trab3]: https://github.com/verxkkj/2024316249-tri3-trab3
-
-- ᵈ¹ ᵈ² ᵈ³ ᵈ⁴ ᵈ⁵ ᵈ⁶ ᵈ⁷ ᵈ⁸ ᵈ⁹ ᵈ¹⁰ ᵈⁿ: Entrega com dias de Atraso
-- \*: Entrega não foi possível avaliar, documento corrompido ou em branco ou outra situação que impossibilitou a avaliação.
-
-## Atividade 003
-
-Considerando o exemplo na pasta `tri3-trab-002` desenvolva um site responsivo que contenha um menu de navegação, que ao clicar em um item a página role até a seção correspondente, as sessões devem conter galerias de fotos sobre temas diversos (cada galeria deve ter um tema específico).
-
 
 | Matrícula  | Avaliação          | Link               |
 | ---------- | :----------------: | ------------------ |
@@ -181,6 +112,74 @@ Considerando o exemplo na pasta `tri3-trab-002` desenvolva um site responsivo qu
 | 2024318305 |                    | |
 | 2024324984 |                    | |
 | 2024325266 |                    | |
+
+- ᵈ¹ ᵈ² ᵈ³ ᵈ⁴ ᵈ⁵ ᵈ⁶ ᵈ⁷ ᵈ⁸ ᵈ⁹ ᵈ¹⁰ ᵈⁿ: Entrega com dias de Atraso
+- \*: Entrega não foi possível avaliar, documento corrompido ou em branco ou outra situação que impossibilitou a avaliação.
+
+## Atividade 003
+
+Considerando o exemplo na pasta `tri3-trab-002` desenvolva um site responsivo que contenha um menu de navegação, que ao clicar em um item a página role até a seção correspondente, as sessões devem conter galerias de fotos sobre temas diversos (cada galeria deve ter um tema específico).
+
+| Matrícula  | Avaliação          | Link                          |
+| ---------- | :----------------: | ----------------------------- |
+| 2023307970 |                    | [link][2023307970-tri3-trab3] |
+| 2024302323 | 100%               | [link][2024302323-tri3-trab3] |
+| 2024302360 | 90% (parece que houve "inspirações") | [link][2024302360-tri3-trab3] |
+| 2024304426 | 100%               | [link][2024304426-tri3-trab3] |
+| 2024304515 | 100%               | [link][2024304515-tri3-trab3] |
+| 2024304650 | 100%               | [link][2024304650-tri3-trab3] |
+| 2024304776 |                    | [link][2024304776-tri3-trab3] |
+| 2024304829 |                    | [link][2024304829-tri3-trab3] |
+| 2024304865 |                    | [link][2024304865-tri3-trab3] |
+| 2024304909 | 100%               | [link][2024304909-tri3-trab3] |
+| 2024306340 |                    | [link][2024306340-tri3-trab3] |
+| 2024306402 | ᵈ¹                 | [link][2024306402-tri3-trab3] |
+| 2024306510 |                    | [link][2024306510-tri3-trab3] |
+| 2024306636 | 100%               | [link][2024306636-tri3-trab3] |
+| 2024306752 | 100%               | [link][2024306752-tri3-trab3] |
+| 2024306799 |  90%               | [link][2024306799-tri3-trab3] |
+| 2024306879 |                    | [link][2024306879-tri3-trab3] |
+| 2024306921 | 100%               | [link][2024306921-tri3-trab3] |
+| 2024307007 |                    | [link][2024307007-tri3-trab3] |
+| 2024307099 |  90%               | [link][2024307099-tri3-trab3] |
+| 2024307150 | 100%               | [link][2024307150-tri3-trab3] |
+| 2024307203 |                    | [link][2024307203-tri3-trab3] |
+| 2024308695 | 100%               | [link][2024308695-tri3-trab3] |
+| 2024308766 | 100%               | [link][2024308766-tri3-trab3] |
+| 2024309772 |                    | [link][2024309772-tri3-trab3] |
+| 2024310307 | 100%               | [link][2024310307-tri3-trab3] |
+| 2024312025 | 100%               | [link][2024312025-tri3-trab3] |
+| 2024313686 | 100%               | [link][2024313686-tri3-trab3] |
+| 2024315519 | 100%               | [link][2024315519-tri3-trab3] |
+| 2024315564 |                    | [link][2024315564-tri3-trab3] |
+| 2024316249 | d1                 | [link][2024316249-tri3-trab3] |
+| 2024318305 |                    | [link][2024318305-tri3-trab3] |
+| 2024324984 | 100%               | [link][2024324984-tri3-trab3] |
+| 2024325266 |                    | [link][2024325266-tri3-trab3] |
+
+[2024313686-tri3-trab3]: https://github.com/ArthAttack16/2024-tri3-trab03-2024313686
+[2024307150-tri3-trab3]: https://github.com/08clayton/2024-tri3-trab03-2024307150.git
+[2024306799-tri3-trab3]: https://github.com/piu2121/2024-tri3-trab3-2024306799
+[2024308766-tri3-trab3]: https://github.com/bernardojwassen/2024-TRI3-TRAB003-2024308766
+[2024315519-tri3-trab3]: https://github.com/Gab-jpng/2024-tri3-trab02-2024315519
+[2024304909-tri3-trab3]: https://github.com/MrMeta-24/teste-atividade-003-004
+[2024306340-tri3-trab3]: https://github.com/oSaiasKK/grid-massa/tree/main
+[2024307099-tri3-trab3]: https://github.com/blueclaro/2024-tri3-trab3-2024307099
+[2024306921-tri3-trab3]: https://github.com/RTX3090rs/2024-tri3-trab03-2024306921
+[2024310307-tri3-trab3]: https://git.disroot.org/adrianvictor/2024310307-tri3-trab03
+[2024306402-tri3-trab3]: https://github.com/Nana-wlw/2024-tri3-trab03-2024306402-
+[2024306340-tri3-trab3]: https://github.com/oSaiasKK/grid-massa/tree/main 
+[2024324984-tri3-trab3]: https://github.com/Sofi5466/tri3-trab-002
+[2024302360-tri3-trab3]: https://github.com/Thomas-Eric/2024-tri3-trab02--2024302360-
+[2024308695-tri3-trab3]: https://github.com/Gui5757/2024-tri3-trab003-2024308695
+[2024312025-tri3-trab3]: https://github.com/Vitorsk80/2024312025-Trabalho3-Tri3
+[2024306636-tri3-trab3]: https://github.com/BIackDemon/2024-tri3-trab003-ia24b-2024306636
+[2024306752-tri3-trab3]: https://github.com/NandaSantana/2024-tri3-trab02-2024306752
+[2024302323-tri3-trab3]: https://github.com/bernardo-vinicius/2024-tri3-trab03-2024302323
+[2024304650-tri3-trab3]: https://github.com/matheussutil/2024304650-tri3-trab3
+[2024304426-tri3-trab3]: https://github.com/victoriaangelicaregis/2024-tri3-trab02-2024304426
+[2024304515-tri3-trab3]: https://github.com/PedroAntunesB/2024-tri3-trab03-2024304515
+[2024316249-tri3-trab3]: https://github.com/verxkkj/2024316249-tri3-trab3
 
 ## Atividade 004
 
