@@ -102,6 +102,7 @@ main .gallery > div img {
 
 .gallery-image-modal .content img {
   max-height: 90vh;
+  max-width: 100%;
 }
 
 @media screen and (max-width: 600px) {
