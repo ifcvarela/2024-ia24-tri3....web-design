@@ -6,18 +6,6 @@ aside {
   grid-area: aside;
 }
 
-aside a {
-  display: block;
-  text-decoration: none;
-  padding: 1rem;
-}
-
-aside a:hover {
-  background-color: rgba(255, 255, 255, .5);
-  background-image: url(https://t3.ftcdn.net/jpg/04/03/02/92/360_F_403029269_KCrGHt5AdtV7GSD2KeP8Wk2PYIbVKlNU.jpg);
-  background-size: cover;
-}
-
 main {
   grid-area: content;
 }
@@ -75,6 +63,7 @@ main .gallery > div:first-child {
 
   grid-area: span 2 / span 2;
 }
+
 main .gallery > div img {
   width: 100%;
   height: 100%;
@@ -84,8 +73,6 @@ main .gallery > div img {
 .gallery-image-modal {
   border-radius: 5px;
   border: 1px solid black;
-  min-height: 250px;
-  min-width: 500px;
   position: fixed;
   overflow: unset;
 }
@@ -108,10 +95,9 @@ main .gallery > div img {
 }
 
 .gallery-image-modal .bt-close::after {
-  content: "❌";
+  content: "✕";
   color: red;
   font-size: calc(var(--size) / 2);
-  border: 1px solid red;
 }
 
 .gallery-image-modal .content img {
