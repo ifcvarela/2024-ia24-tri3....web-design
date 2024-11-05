@@ -69,6 +69,43 @@ main .gallery > div img {
   object-fit: cover;
 }
 
+.gallery-image-modal {
+  border-radius: 5px;
+  border: 1px solid black;
+  min-height: 250px;
+  min-width: 500px;
+  position: fixed;
+  overflow: unset;
+}
+
+.gallery-image-modal::backdrop {
+  background-color: rgba(0, 0, 0, 0.8);
+  backdrop-filter: blur(2px);
+}
+
+.gallery-image-modal .bt-close {
+  --size: 3rem;
+  --translate: calc(var(--size) / 3 * -1);
+  height: var(--size);
+  width: var(--size);
+  border-radius: 50%;
+  color: transparent;
+  position: absolute;
+  right: var(--translate);
+  top: var(--translate);
+}
+
+.gallery-image-modal .bt-close::after {
+  content: "❌";
+  color: red;
+  font-size: calc(var(--size) / 2);
+  border: 1px solid red;
+}
+
+.gallery-image-modal .content img {
+  max-height: 90vh;
+}
+
 @media screen and (max-width: 600px) {
   body {
     grid-template-columns: 1fr;
