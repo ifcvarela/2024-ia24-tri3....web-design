@@ -27,7 +27,7 @@ aside {
   background-color: #A3CB38;
   
   &::before {
-    content: "aside"
+    content: "Aside"
   }
 }
 

@@ -6,6 +6,18 @@ aside {
   grid-area: aside;
 }
 
+aside a {
+  display: block;
+  text-decoration: none;
+  padding: 1rem;
+}
+
+aside a:hover {
+  background-color: rgba(255, 255, 255, .5);
+  background-image: url(https://t3.ftcdn.net/jpg/04/03/02/92/360_F_403029269_KCrGHt5AdtV7GSD2KeP8Wk2PYIbVKlNU.jpg);
+  background-size: cover;
+}
+
 main {
   grid-area: content;
 }
@@ -17,7 +29,7 @@ footer {
 body {
   display: grid;
   grid-template-columns: 250px 1fr;
-  grid-template-rows: 100px 1fr 100px;
+  grid-template-rows: 20vh 1fr 100px;
   grid-template-areas: "header header" "aside  content" "footer footer";
   min-height: 100vh;
   margin: 0;
