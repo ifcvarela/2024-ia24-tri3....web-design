@@ -10,6 +10,8 @@ header {
   margin-bottom: 1rem;
   transform-origin: 0 0;
   transform: skewY(-1deg) translateY(-9%);
+  color: #FFF;
+  padding: 2rem 5rem;
 
   &::before {
     content: ""
@@ -22,6 +24,11 @@ main {
   &::before {
     content: ""
   }
+}
+
+main p {
+  padding: 0 1rem;
+  color: #333;
 }
 
 main .gallery {
