@@ -42,7 +42,7 @@ main .gallery>div {
   position: relative;
   border-radius: 5px;
 
-  & > img {
+  &>img {
     top: 0;
     position: absolute;
     width: 100%;
@@ -51,14 +51,14 @@ main .gallery>div {
   }
 }
 
-main .gallery > div:hover {
+main .gallery>div:hover {
   transform-origin: center;
   transform: scale(1.5);
   width: 100%;
   padding-top: 100%;
 }
 
-main .gallery:hover > div:not(:hover) {
+main .gallery:hover>div:not(:hover) {
   transform: scale(.95);
   filter: grayscale(100%);
   transition: .15s;
@@ -67,13 +67,13 @@ main .gallery:hover > div:not(:hover) {
 aside {
   background-color: transparent;
   border-right: 1px solid #000;
-  
+
   &::before {
     content: ""
   }
 }
 
-aside > div {
+aside>div {
   position: sticky;
   top: 0;
 }
