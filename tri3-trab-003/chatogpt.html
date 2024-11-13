@@ -6,11 +6,12 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Chat</title>
   <style>
-    html, body {
+    html,
+    body {
       margin: 0;
       padding: 0;
     }
-    
+
     body {
       display: grid;
       grid-template-rows: 100px 1fr 50px;
@@ -23,6 +24,10 @@
       padding: 0 20px;
       background-color: #333;
       color: white;
+    }
+
+    main {
+      overflow: auto;
     }
 
     main .message {
@@ -41,14 +46,14 @@
       font-style: italic;
       border-top: 1px solid rgba(255, 255, 255, .5);
     }
-    
+
     main .message.owner {
       justify-self: end;
       background-color: #007bff;
       color: white;
     }
-    
-    footer  {
+
+    footer {
       display: grid;
       grid-template-columns: 1fr auto;
     }
@@ -58,45 +63,50 @@
 <body>
   <header>
     <img class="thumb">
-    <h1>Usuário Dunha</h1>
+    <h1>Usuário ...</h1>
   </header>
   <main>
-    
+
   </main>
   <footer>
     <input type="text">
     <button>Enviar</button>
   </footer>
-
   <script>
-    const main = document.querySelector("main")
-    const input = document.querySelector("input")
-    const button = document.querySelector("button")
+    const main = document.querySelector('main')
+    const input = document.querySelector('input')
+    const button = document.querySelector('button')
 
-    function monstrarMensagem(owner, message, timestamp, nick) {
+    let currentNick = null
+
+    function addMessage(content, nick, time) {
       main.innerHTML += `
-        <div class="message ${owner ? "owner" : ""}">
-          <div class="content">${message}</div>
-          <div class="time">${timestamp}</div>
+        <div class="message ${currentNick == nick ? 'owner' : ''}">
+          <div class="content">${content}</div>
           <div class="nick">${nick}</div>
+          <div class="time">${time}</div>
         </div>
-      `
+      `	      
     }
 
-    const ws = new WebSocket("ws://192.168.120.53:4000")
-  
-    ws.addEventListener("open", () => console.log("Conectado"))
-    ws.addEventListener("close", () => console.log("Desconectado"))
+    const ws = new WebSocket('ws://localhost:4000')
+
+    ws.addEventListener("open", () => console.log('Conectado'))
+    ws.addEventListener("close", () => console.log('Desconectado'))
 
     ws.addEventListener("message", (event) => {
       const data = JSON.parse(event.data)
-      monstrarMensagem(false, data.message, data.timestamp, data.nick)
+      addMessage(data.message, data.nick, data.timestamp)
     })
 
-    button.addEventListener("click", () => {
+    button.addEventListener('click', () => {
       const message = input.value
+      if (message.startsWith("/nick ")) {
+        currentNick = message.split(' ')[1]
+        document.querySelector('h1').innerText = `Usuário ${currentNick}`
+      }
       ws.send(message)
-      input.value = ""
+      input.value = ''
     })
   </script>
 </body>
