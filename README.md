@@ -188,3 +188,7 @@ Com base no trabalho anterior, customize as galerias para que o primeiro item oc
 ## Atividade 005 - Modal
 
 ...
+
+## Atividade 006 - Estilização da Página de Galerias (Modal) e Pagina de Chat
+
+Estilize a página de galerias e a página de chat para combinar com o tema escolhido por vocÇe, a página de galerias deve ter um modal que ao clicar em uma imagem a mesma seja exibida em um modal (estilize o modal como desejar).
