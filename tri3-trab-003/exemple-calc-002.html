@@ -1,0 +1,218 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <title>Calc Table -> Flexbox -> Grid</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #f6f6f6;
+    }
+
+    /* CALC */
+
+    * {
+      box-sizing: border-box;
+    }
+
+    .calc {
+      margin: 0 auto;
+      width: 500px;
+      height: 550px;
+      box-shadow: 0px 14px 10px -6px rgba(0, 0, 0, .5);
+      border: 1px solid #000000;
+    }
+
+    .calc input {
+      padding: 1rem;
+      text-align: right;
+    }
+
+    .calc input,
+    .calc button {
+      font-size: 2rem;
+      cursor: pointer;
+      transition: .3s;
+    }
+
+    /* CALC GRID */
+
+    .calc-grid {
+      display: grid;
+      grid-template-columns: repeat(4, 1fr);
+    }
+
+    .calc-grid input {
+      grid-column: span 3;
+    }
+
+    .calc-grid button[data-char="0"] {
+      grid-area: 5 / 2;
+    }
+
+    .calc-grid button[data-char="+"] {
+      /* grid-row: 2;
+      grid-column: 4; */
+      grid-area: 2 / 4
+    } 
+
+    .calc-grid button[data-char="-"] {
+      grid-area: 3 / 4
+    }
+
+    .calc-grid button[data-char="/"] {
+      grid-area: 4 / 4
+    }
+
+    .calc-grid button[data-char="*"] {
+      grid-area: 5 / 4
+    }
+
+    /* CALC FLEXBOX */
+
+    .calc-flex {
+      display: flex;
+      flex-wrap: wrap;
+    }
+
+    .calc-flex input {
+      width: 75%;
+      padding: 1rem;
+      text-align: right;
+    }
+
+    .calc-flex button {
+      flex: 1 1 25%
+    }
+
+    /* CALC TABLE */
+
+    .calc-table {
+      border-collapse: collapse;
+    }
+
+    .calc td {
+      border: 0 none;
+      padding: 0;
+      width: 25%;
+    }
+
+    .calc-table button,
+    .calc-table input {
+      width: 100%;
+      height: 100%;
+    }
+  </style>
+</head>
+
+<body>
+
+  <h1>Calc using Grid</h1>
+  <div class="calc calc-grid">
+    <input type="text" readonly>
+    <button data-char="C">⌫</button>
+    <button data-char="1">1</button>
+    <button data-char="2">2</button>
+    <button data-char="3">3</button>
+    <button data-char="4">4</button>
+    <button data-char="5">5</button>
+    <button data-char="6">6</button>
+    <button data-char="7">7</button>
+    <button data-char="8">8</button>
+    <button data-char="9">9</button>
+    <button data-char="0">0</button>
+    <button data-char=",">,</button>
+    <button data-char="+">+</button>
+    <button data-char="-">-</button>
+    <button data-char="/">/</button>
+    <button data-char="*">*</button>
+    <button data-char="=">=</button>
+  </div>
+
+  <h1>Calc using Flexbox</h1>
+
+  <div class="calc calc-flex">
+    <input type="text" readonly>
+    <button data-char="C">⌫</button>
+    <button data-char="1">1</button>
+    <button data-char="2">2</button>
+    <button data-char="3">3</button>
+    <button data-char="+">+</button>
+    <button data-char="4">4</button>
+    <button data-char="5">5</button>
+    <button data-char="6">6</button>
+    <button data-char="-">-</button>
+    <button data-char="7">7</button>
+    <button data-char="8">8</button>
+    <button data-char="9">9</button>
+    <button data-char="/">/</button>
+    <button data-char=",">,</button>
+    <button data-char="0">0</button>
+    <button data-char="=">=</button>
+    <button data-char="*">*</button>
+  </div>
+
+  <h1>Calc using Table</h1>
+
+  <table class="calc calc-table">
+    <tr>
+      <td colspan="3"><input type="text" readonly></td>
+      <td colspan="4"><button data-char="C">⌫</button></td>
+    </tr>
+    <tr>
+      <td><button data-char="1">1</button></td>
+      <td><button data-char="2">2</button></td>
+      <td><button data-char="3">3</button></td>
+      <td><button data-char="+">+</button></td>
+    </tr>
+    <tr>
+      <td><button data-char="4">4</button></td>
+      <td><button data-char="5">5</button></td>
+      <td><button data-char="6">6</button></td>
+      <td><button data-char="-">-</button></td>
+    </tr>
+    <tr>
+      <td><button data-char="7">7</button></td>
+      <td><button data-char="8">8</button></td>
+      <td><button data-char="9">9</button></td>
+      <td><button data-char="/">/</button></td>
+    </tr>
+    <tr>
+      <td><button data-char=",">,</button></td>
+      <td><button data-char="0">0</button></td>
+      <td><button data-char="=">=</button></td>
+      <td><button data-char="*">*</button></td>
+    </tr>
+    <tr>
+    </tr>
+  </table>
+
+  <script>
+    const calcs = document.querySelectorAll(".calc")
+
+    calcs.forEach(calc => {
+      const input = calc.querySelector("input")
+      const buttons = calc.querySelectorAll("button:not([data-char='='], [data-char='C'])")
+      const clear = calc.querySelector("button[data-char='C']")
+      const equal = calc.querySelector("button[data-char='=']")
+
+      equal.addEventListener("click", () => {
+        input.value = eval(input.value)
+      })
+
+      clear.addEventListener("click", () => {
+        input.value = ""
+      })
+
+      buttons.forEach(button => {
+        button.addEventListener("click", () => {
+          const char = button.getAttribute("data-char")
+          input.value += char
+        })
+      })
+    })
+  </script>
+</body>
+
+</html>
