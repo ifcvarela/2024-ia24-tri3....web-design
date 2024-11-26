@@ -1,0 +1,181 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>class</title>
+</head>
+
+<body>
+
+  <h2>CSS Selector + ~</h2>
+
+  <style>
+    .meu-querido-checkbox {
+      display: inline-block;
+
+      &>div {
+        --w: 6rem;
+        --h: 3rem;
+        width: var(--w);
+        height: var(--h);
+        border: 1px solid;
+        border-radius: 3rem;
+        position: relative;
+        cursor: pointer;
+
+        &>div {
+          position: absolute;
+          left: 0;
+          width: var(--h);
+          height: var(--h);
+          background-color: lightpink;
+          border-radius: 50%;
+          transition: .3s;
+        }
+      }
+    }
+
+    label.meu-querido-checkbox {
+      & input {
+        display: none;
+      }
+
+      &>input:checked+div>div {
+        left: calc(100% - var(--h));
+        background-color: lightgreen;
+      }
+    }
+
+    /* ============================= */
+
+    .fenomeno {
+      border: 1px solid;
+      display: grid;
+      grid-template-columns: 1fr;
+      gap: .25rem;
+      padding: .25rem;
+      margin-bottom: .5rem;
+
+      &>div {
+        height: 50px;
+        background-color: lightcoral;
+      }
+
+      &>div.especial {
+        background-color: lightseagreen;
+      }
+
+      &>div.especial+div {
+        background-color: blueviolet;
+      }
+
+      &>div.especial~div {
+        border: 5px solid black
+      }
+    }
+  </style>
+
+  <div class="fenomeno">
+    <div></div>
+    <div></div>
+    <div></div>
+    <div class="especial"></div>
+    <div></div>
+    <div></div>
+    <div></div>
+    <div></div>
+  </div>
+
+  <label class="meu-querido-checkbox">
+    <input type="checkbox">
+    <div>
+      <div></div>
+    </div>
+  </label>
+
+  <label class="meu-querido-checkbox">
+    <input type="checkbox">
+    <div>
+      <div></div>
+    </div>
+  </label>
+
+  <label class="meu-querido-checkbox">
+    <input type="checkbox">
+    <div>
+      <div></div>
+    </div>
+  </label>
+
+  <label class="meu-querido-checkbox">
+    <input type="checkbox">
+    <div>
+      <div></div>
+    </div>
+  </label>
+
+  <label class="meu-querido-checkbox">
+    <input type="checkbox">
+    <div>
+      <div></div>
+    </div>
+  </label>
+
+  <label class="meu-querido-checkbox">
+    <input type="checkbox">
+    <div>
+      <div></div>
+    </div>
+  </label>
+
+
+  <h2>CSS Selector :not</h2>
+
+  <style>
+    .pseudo-classe-not {
+      border: 1px solid;
+      margin: 1rem;
+      padding: .25rem;
+      display: grid;
+      grid-template-columns: repeat(4, 1fr);
+      gap: .25rem;
+      padding: .25rem;
+
+      &>div {
+        height: 200px;
+        background-color: lightskyblue;
+        cursor: pointer;
+        transition: .3s;
+      }
+
+      &>div:hover {
+        background-color: lightpink;
+        transform: scale(1.02);
+      }
+    }
+
+    .pseudo-classe-not:hover>div:not(:hover) {
+      transform: scale(.9);
+    }
+  </style>
+
+  <div class="pseudo-classe-not">
+    <div></div>
+    <div></div>
+    <div></div>
+    <div></div>
+    <div></div>
+    <div></div>
+    <div></div>
+    <div></div>
+  </div>
+
+  <!-- <script>
+    const check = document.querySelector(".meu-querido-checkbox")
+    check.addEventListener("click", () => check.classList.toggle("on"))
+  </script> -->
+</body>
+
+</html>

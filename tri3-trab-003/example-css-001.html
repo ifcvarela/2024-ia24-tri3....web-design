@@ -1,0 +1,177 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>CSS</title>
+
+</head>
+
+<body>
+
+  <h2>CSS Selector :not :hover</h2>
+
+  <style>
+    div.pokemon {
+      display: grid;
+      grid-template-columns: repeat(4, 1fr);
+      border: 1px solid;
+      gap: .5rem;
+
+      & > div {
+        height: 200px;
+        background: lightcoral;
+        transition: .3s;
+        cursor: pointer;
+      }
+      
+      & > div:hover {
+        background: lightgreen;
+      }
+    }
+    
+    div.pokemon:hover > div:not(:hover) {
+      transform: scale(.90);
+    }
+  </style>
+
+  <div class="pokemon">
+    <div></div>
+    <div></div>
+    <div></div>
+    <div></div>
+    <div></div>
+    <div></div>
+    <div></div>
+    <div></div>
+    <div></div>
+    <div></div>
+    <div></div>
+    <div></div>
+  </div>
+
+  <h2>CSS Selector + ~</h2>
+
+  <style>
+    .checkbox-custom {
+      display: inline-block;
+      margin-bottom: 1rem;
+
+      /* .checkbox-custom > div  */
+      &>div {
+        --w: 6em;
+        --h: 3em;
+        display: grid;
+        align-items: center;
+        position: relative;
+        --border: 1px;
+        border: var(--border) solid;
+        width: var(--w);
+        height: var(--h);
+        border-radius: 3em;
+        cursor: pointer;
+
+        /*  .checkbox-custom > div > div */
+        &>div {
+          --r: calc(var(--h) - calc(2 * var(--border)));
+          position: absolute;
+          height: var(--r);
+          width: var(--r);
+          border-radius: 50%;
+          left: 0;
+          background-color: red;
+          transition: .3s;
+        }
+
+      }
+
+      /* .checkbox-custom > input */
+      &>input {
+        display: none;
+      }
+
+      /* .checkbox-custom > input:checked ~ div > div */
+      & input:checked~div>div {
+        left: none;
+        background-color: green;
+        left: calc(100% - var(--r));
+      }
+    }
+
+    /* ============================== */
+
+    div.hadoken {
+      border: 1px solid;
+      padding: .25rem;
+
+      &>div.especial {
+        background: red;
+      }
+
+      &>div {
+        background: green;
+        height: 1rem;
+        margin-bottom: .25rem;
+      }
+
+      &>div.especial+div {
+        background-color: pink;
+      }
+
+      &>div.especial~div {
+        border: 3px solid purple;
+      }
+    }
+  </style>
+
+  <label class="checkbox-custom">
+    <input type="checkbox">
+    <div>
+      <div></div>
+    </div>
+  </label>
+
+  <label class="checkbox-custom">
+    <input type="checkbox">
+    <div>
+      <div></div>
+    </div>
+  </label>
+
+  <label class="checkbox-custom">
+    <input type="checkbox">
+    <div>
+      <div></div>
+    </div>
+  </label>
+
+  <label class="checkbox-custom">
+    <input type="checkbox">
+    <div>
+      <div></div>
+    </div>
+  </label>
+
+  <label class="checkbox-custom">
+    <input type="checkbox">
+    <div>
+      <div></div>
+    </div>
+  </label>
+
+
+  <div class="hadoken">
+    <div></div>
+    <div></div>
+    <div></div>
+    <div class="especial"></div>
+    <div></div>
+    <div></div>
+    <div></div>
+    <div></div>
+  </div>
+
+</body>
+
+</html>
